@@ -1,3 +1,5 @@
+http://......(IP address in Serial Monitor)......
+
 #include "esp_camera.h"
 #include <WiFi.h>
 
